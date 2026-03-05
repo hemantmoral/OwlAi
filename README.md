@@ -1,6 +1,7 @@
 # OwlAi
 Overload Ware Labs AI Virtual Internship Tasks Submission Repo
 AI/ML Research Intern – Task List:
+
 Task 1: Research on the AI/ML Researcher Role
 🎯 Objective:
 Create a 3-page PDF explaining the key responsibilities, required tools, and the importance of an AI/ML Researcher in today’s tech industry. Include a Q&A section at the end to demonstrate your understanding of the field.
