@@ -24,13 +24,5 @@ Any documentation platform (Google Docs, MS Word, Notion, etc.)
 
 
 
-Task 3: Exploratory Data Analysis (EDA)
-🎯 Objective:
-Perform an Exploratory Data Analysis on any publicly available dataset (for example, from Kaggle). Identify key data patterns, visualize relationships, and summarize your findings in a clear and concise report.
-
-🧰 Tools/Platforms:
-Python, Pandas, NumPy, Matplotlib, Seaborn
-
-📤 Submission: Upload your completed work or source code to GitHub or Google Drive and share the link. Additionally, post a photo or short video of your task on LinkedIn, and tag our official Owl AI page to showcase your work.
 
 
