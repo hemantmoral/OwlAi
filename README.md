@@ -33,6 +33,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 📤 Submission: Upload your completed work or source code to GitHub or Google Drive and share the link. Additionally, post a photo or short video of your task on LinkedIn, and tag our official Owl AI page to showcase your work.
 
 
+Hard Task 4: Machine Learning Model Comparison
+🎯 Objective:
+Build and compare two machine learning models (e.g., Linear Regression vs. Random Forest) using the same dataset. Evaluate their performance using metrics such as accuracy, precision, recall, and F1-score.
 
+🧰 Tools/Platforms:
+Python, scikit-learn, Jupyter Notebook
+
+📤 Submission: Upload your completed work or source code to GitHub or Google Drive and share the link. Additionally, post a photo or short video of your task on LinkedIn, and tag our official Owl AI page to showcase your work.
 
 
